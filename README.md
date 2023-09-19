@@ -5,9 +5,6 @@
 🌟 About Me:
 I am a passionate software engineer with a deep love for technology and a knack for solving complex problems.
 
-💡 Open Source Advocate:
-I'm a firm believer in the power of open source collaboration. You can often find me contributing to various open source projects that align with my interests and values. I'm committed to giving back to the community that has nurtured my growth.
-
 🌐 GitHub Projects:
 Explore my GitHub repositories to discover a collection of projects that showcase my coding skills and problem-solving abilities.
 
